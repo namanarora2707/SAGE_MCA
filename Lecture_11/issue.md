@@ -1,0 +1,1 @@
+No class conducted due to MCAT and wifi issue
