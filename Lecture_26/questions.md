@@ -1,3 +1,4 @@
 Leetcode Questions
 
---> 75 - sort colors
+--> 66 - Plus one
+--> 169 - Majority element
